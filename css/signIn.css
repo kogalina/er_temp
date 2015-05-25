@@ -1,0 +1,15 @@
+body { margin: 0; padding:; 0; }
+
+.signin-wrap {width: 325px; height: 440px; background-color: #f4ecd7; margin: 0 auto;}
+
+.form-top {width: 260px !important; margin: 0 auto; padding-top: 5px; border-bottom:2px inset #000; }
+.form-group {margin: 0 auto;  width: 260px ; padding-top: 7px;}
+.checkbox { margin-left: 34px !important; float: left;}
+.btn-default { margin-left: 48px !important; }
+.btn .btn-default { float: right; margin-left:35px; margin-top: 5px;}
+.social-text { margin-left: 35px;  }
+.social-button { height:70px; margin-left:35px;  }
+.social-button img {float: left; margin-right: 20px;  width: 45px; height: 45px;}
+.buttons-signin {width: 258px; height: 40px; margin: 0 auto;}
+
+.registr { float: left; width: 258px; height: 50px; margin-left: 65px;  margin-top: 15px;}*/
